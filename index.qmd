@@ -2,7 +2,7 @@
 title: "Timothy Pistotti"
 about:
   template: trestles
-  image: profile.jpg
+  image: images/profile.jpg
   links:
     - icon: linkedin
       text: LinkedIn
