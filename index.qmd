@@ -1,7 +1,38 @@
 ---
-title: "pistotti.github.io"
+title: "Timothy Pistotti"
+about:
+  template: trestles
+  image: profile.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/timothy-pistotti-a2685b95/
+    - icon: mortarboard-fill
+      text: University Profile
+      href: https://profiles.auckland.ac.nz/timothy-pistotti
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?hl=en&user=9oArDTYAAAAJ
+    - icon: github
+      text: Github
+      href: https://github.com/Pistotti
 ---
 
-This is a Quarto website.
+## About Me
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a PhD candidate at the [University of Auckland](https://www.auckland.ac.nz/en.html), where my research focuses on Natural Language Processing (NLP) for low-resource languages. My work aims to develop methods that enable language technologies to function effectively for the vast number of languages that lack large-scale data resources.
+
+My primary interests include cross-lingual transfer learning, computational syntax, and the intersection of linguistics and machine learning.
+
+---
+
+## Featured Publications
+
+::: {#pubs}
+:::
+
+*A selection of my recent work. For a complete list, please see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=9oArDTYAAAAJ).*
+
+**Pistotti, T.**, Brown, J., & Witbrock, M. (2025). *Exploring Gaps in the APS: Direct Minimal Pair Analysis in LLM Syntactic Assessments*. In Proceedings of the BriGap-2 Workshop at COLM 2025.
+
+_(You can add more publications here in the same format)_
