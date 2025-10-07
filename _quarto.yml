@@ -12,14 +12,9 @@ website:
         text: Publications
       - href: about.qmd
         text: About
-
+  
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: darkly
     css: styles.css
     toc: true
-
-
-

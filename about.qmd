@@ -2,4 +2,6 @@
 title: "About"
 ---
 
-About this site
+I am currently developing NLP solutions for low resource languages. I am interested in creating language technology that helps people learn, use, preserve, revitalise, and share their languages. 
+
+I am living in Aotearoa New Zealand. It is beautiful, and I am blessed to be here.

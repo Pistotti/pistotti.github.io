@@ -17,10 +17,9 @@ about:
       text: Github
       href: https://github.com/Pistotti
 ---
+## Introductions
 
-## About Me
-
-I am a PhD candidate at the [University of Auckland](https://www.auckland.ac.nz/en.html), where my research focuses on Natural Language Processing (NLP) for low-resource languages. My work aims to develop methods that enable language technologies to function effectively for the vast number of languages that lack large-scale data resources.
+I am a PhD candidate at the [University of Auckland](https://profiles.auckland.ac.nz/timothy-pistotti), where my research focuses on Natural Language Processing (NLP) for low-resource languages. My work aims to develop methods that enable language technologies to function effectively for the vast number of languages that lack large-scale data resources.
 
 My primary interests include cross-lingual transfer learning, computational syntax, and the intersection of linguistics and machine learning.
 
@@ -31,6 +30,14 @@ My primary interests include cross-lingual transfer learning, computational synt
 ::: {#pubs}
 :::
 
-*A selection of my recent work. For a complete list, please see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=9oArDTYAAAAJ).*
+I recently presented two papers at The Second Workshop on Bridges and Gaps between Formal and Computational Linguistics Sept 2025
 
-**Pistotti, T.**, Brown, J., & Witbrock, M. (2025). *Exploring Gaps in the APS: Direct Minimal Pair Analysis in LLM Syntactic Assessments*. In Proceedings of the BriGap-2 Workshop at IWCS 2025.
+**1. Evaluating The Impact of Stimulus Quality in Investigations of {LLM} Language Performance**
+
+<span style="color:grey">Timothy Pistotti, Jason Brown, and Michael Witbrok</span> 
+
+**2. Exploring Gaps in the APS: Direct Minimal Pair Analysis in LLM Syntactic Assessments**
+
+<span style="color:grey">Timothy Pistotti, Jason Brown, and Michael Witbrok</span>
+
+*For a complete list, please see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=9oArDTYAAAAJ).*

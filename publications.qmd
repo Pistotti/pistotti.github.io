@@ -2,9 +2,11 @@
 title: "Publications"
 bibliography: references.bib
 csl: association-for-computational-linguistics.csl
+nocite: |
+  @*
 ---
 
-This is a list of my academic publications.
+<br>
 
-::: {#refs}
+::: {#refs .references .csl-bib-body .hanging-indent}
 :::
