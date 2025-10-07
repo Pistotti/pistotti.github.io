@@ -9,8 +9,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "pistotti.github.io",
+    "title": "Timothy Pistotti",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "I am a PhD candidate at the University of Auckland, where my research focuses on Natural Language Processing (NLP) for low-resource languages. My work aims to develop methods that enable language technologies to function effectively for the vast number of languages that lack large-scale data resources.\nMy primary interests include cross-lingual transfer learning, computational syntax, and the intersection of linguistics and machine learning."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Timothy Pistotti",
+    "section": "",
+    "text": "I am a PhD candidate at the University of Auckland, where my research focuses on Natural Language Processing (NLP) for low-resource languages. My work aims to develop methods that enable language technologies to function effectively for the vast number of languages that lack large-scale data resources.\nMy primary interests include cross-lingual transfer learning, computational syntax, and the intersection of linguistics and machine learning."
+  },
+  {
+    "objectID": "index.html#featured-publications",
+    "href": "index.html#featured-publications",
+    "title": "Timothy Pistotti",
+    "section": "Featured Publications",
+    "text": "Featured Publications\n\n\nA selection of my recent work. For a complete list, please see my Google Scholar profile.\nPistotti, T., Brown, J., & Witbrock, M. (2025). Exploring Gaps in the APS: Direct Minimal Pair Analysis in LLM Syntactic Assessments. In Proceedings of the BriGap-2 Workshop at COLM 2025.\n(You can add more publications here in the same format)"
   }
 ]
