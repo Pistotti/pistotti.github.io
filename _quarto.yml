@@ -3,12 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "pistotti.github.io"
+  title: "Timothy Pistotti"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: publications.qmd
+        text: Publications
+      - href: about.qmd
+        text: About
 
 format:
   html:
