@@ -34,5 +34,3 @@ My primary interests include cross-lingual transfer learning, computational synt
 *A selection of my recent work. For a complete list, please see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=9oArDTYAAAAJ).*
 
 **Pistotti, T.**, Brown, J., & Witbrock, M. (2025). *Exploring Gaps in the APS: Direct Minimal Pair Analysis in LLM Syntactic Assessments*. In Proceedings of the BriGap-2 Workshop at COLM 2025.
-
-_(You can add more publications here in the same format)_
