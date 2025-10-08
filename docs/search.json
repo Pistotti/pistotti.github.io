@@ -4,7 +4,7 @@
     "href": "contacts.html",
     "title": "Contact",
     "section": "",
-    "text": "Me\nTimothy Pistotti PhD Candidate\ntpis871@aucklanduni.ac.nz\n\n\n\n\n\nSupervisor\nJason Brown Senior Lecturer\nView Profile\n\n\n\n\n\nCo-Supervisor\nMichael Witbrock Professor\nView Profile\n\n\n\n\n\n\nOffice Address\nComputational Linguistics Lab CLL Building (207), Office 207\n18 Symonds Street\nAuckland, 1010, New Zealand"
+    "text": "Key Contacts\n\n\n\n\nTimothy Pistotti PhD Candidate tpis871@aucklanduni.ac.nz\n\n\n\nJason Brown Senior Lecturer View Profile\n\n\n\nMichael Witbrock Professor View Profile\n\n\n\n\n\n\nOffice Address\nComputational Linguistics Lab CLL Building (207), Office 207\n18 Symonds Street\nAuckland, 1010, New Zealand"
   },
   {
     "objectID": "publications.html",
@@ -47,5 +47,12 @@
     "title": "About",
     "section": "",
     "text": "I am currently developing NLP solutions for low resource languages. I am interested in creating language technology that helps people learn, use, preserve, revitalise, and share their languages.\nI am living in Aotearoa New Zealand. It is beautiful, and I am blessed to be here."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Key Contacts\n\n\n\n\nTimothy Pistotti PhD Candidate tpis871@aucklanduni.ac.nz\n\n\n\nJason Brown Senior Lecturer View Profile\n\n\n\nMichael Witbrock Professor Profile\n\n\n\n\n\n\nOffice Address\nComputational Linguistics Lab CLL Building (207), Office 207\n18 Symonds Street\nAuckland, 1010, New Zealand"
   }
 ]

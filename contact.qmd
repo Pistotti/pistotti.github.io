@@ -2,37 +2,28 @@
 title: "Contact"
 ---
 
+### Key Contacts
+
 ::: {layout-ncol=3}
+
 <div>
 <img src="images/profile.jpg" alt="Timothy Pistotti" style="width:100px; border-radius: 50%;">
-<p>
 
-Me
-
-**Timothy Pistotti** PhD Candidate  
-[tpis871@aucklanduni.ac.nz](mailto:tpis871@aucklanduni.ac.nz)
-</p>
+**Timothy Pistotti** *PhD Candidate* [tpis871@aucklanduni.ac.nz](mailto:tpis871@aucklanduni.ac.nz)
 </div>
 
 <div>
 <img src="images/jason-brown.png" alt="Jason Brown" style="width:100px; border-radius: 50%;">
-<p>
-Supervisor
 
-**Jason Brown** Senior Lecturer  
-[View Profile](https://profiles.auckland.ac.nz/jason-brown)
-</p>
+**Jason Brown** *Senior Lecturer* [View Profile](https://profiles.auckland.ac.nz/jason-brown)
 </div>
 
 <div>
 <img src="images/michael-witbrock.jpg" alt="Michael Witbrock" style="width:100px; border-radius: 50%;">
-<p>
-Co-Supervisor
 
-**Michael Witbrock** Professor  
-[View Profile](https://profiles.auckland.ac.nz/m-witbrock)
-</p>
+**Michael Witbrock** *Professor* [Profile](https://profiles.auckland.ac.nz/m-witbrock)
 </div>
+
 :::
 
 <hr>
