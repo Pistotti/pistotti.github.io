@@ -30,14 +30,17 @@ My primary interests include cross-lingual transfer learning, computational synt
 ::: {#pubs}
 :::
 
-I recently presented two papers at The Second Workshop on Bridges and Gaps between Formal and Computational Linguistics Sept 2025
+I recently presented two papers at [BriGap-2](https://brigap-workshop.github.io/), the second workshop on Bridges and Gaps between Formal and Computational Linguistics, held Sept 2025 in Düsseldorf.
 
-**1. Evaluating The Impact of Stimulus Quality in Investigations of {LLM} Language Performance**
+**1. [Evaluating The Impact of Stimulus Quality in Investigations of {LLM} Language Performance](https://arxiv.org/abs/2510.06018)**
 
-<span style="color:grey">Timothy Pistotti, Jason Brown, and Michael Witbrok</span> 
+**2. [Exploring Gaps in the APS: Direct Minimal Pair Analysis in LLM Syntactic Assessments](https://arxiv.org/abs/2510.06001)**
 
-**2. Exploring Gaps in the APS: Direct Minimal Pair Analysis in LLM Syntactic Assessments**
-
-<span style="color:grey">Timothy Pistotti, Jason Brown, and Michael Witbrok</span>
+<span style="color:lightblue">Thanks to Jason Brown and Michael Witbrok, my Co-Authors on these papers.</span>
 
 *For a complete list, please see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=9oArDTYAAAAJ).*
+
+---
+
+## Upcoming Work
+I will be giving an online presentation for the second [UncertaiNLP](https://uncertainlp.github.io/) workshop to be held at EMNLP 2025 in Suzhou, China. More details to come...
