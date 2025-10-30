@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "About Me:"
 ---
 
 My current research is focused on Natural Language Processing for low-resource languages, a field that perfectly merges my background in theoretical linguistics with a decade of hands-on experience in English language teaching. I am a PhD candidate at the University of Auckland, where my work is supervised by [Associate Professor Jason Brown](https://profiles.auckland.ac.nz/jason-brown) in the Faculty of Arts and [Professor Michael Witbrock](https://profiles.auckland.ac.nz/m-witbrock) in the Faculty of Computer Science. This interdisciplinary supervision supports my goal of developing ethical and accessible NLP solutions that can contribute to language preservation and revitalisation in under-served communities.

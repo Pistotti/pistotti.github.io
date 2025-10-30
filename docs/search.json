@@ -2,7 +2,7 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About Me",
+    "title": "About Me:",
     "section": "",
     "text": "My current research is focused on Natural Language Processing for low-resource languages, a field that perfectly merges my background in theoretical linguistics with a decade of hands-on experience in English language teaching. I am a PhD candidate at the University of Auckland, where my work is supervised by Associate Professor Jason Brown in the Faculty of Arts and Professor Michael Witbrock in the Faculty of Computer Science. This interdisciplinary supervision supports my goal of developing ethical and accessible NLP solutions that can contribute to language preservation and revitalisation in under-served communities.\nAfter completing a BA in Literature and Film at the University of California, Santa Cruz, I spent nearly a decade as an ESL educator and curriculum designer across the globe, with roles in South Korea, Australia, Thailand, and Saudi Arabia. This period gave me a firsthand appreciation for the nuances of language acquisition and the diverse challenges faced by learners and speakers in different communities.\nDriven to connect this practical experience with formal linguistic theory, I pursued an MA in Linguistics at the University of Auckland, graduating with First Class Honours. It was here that my focus shifted toward research, beginning with an analysis of the intonation systems of an under-documented language from Papua New Guinea as a research assistant. My MA thesis investigated neuances in Polar Questions in Kham Meuang and Standard Thai. My academic performance led to several honors, including a University of Auckland Doctoral Scholarship and a Research Project Scholarship for my work on low-resource languages.\nToday, my PhD work synthesizes these experiences. My deep-seated curiosity for language helps me explore novel computational approaches, always with an eye toward meaningful, real-world application."
   },
@@ -39,13 +39,20 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Key Contacts\n\n\n\n\nTimothy Pistotti PhD Candidate tpis871@aucklanduni.ac.nz\n\n\n\nJason Brown Senior Lecturer View Profile\n\n\n\nMichael Witbrock Professor View Profile\n\n\n\n\n\n\nAffiliations\n\nNAO Institute\nSAIL (Strong AI Lab)\n\n\n\n\nOffice Address\nComputational Linguistics Lab CLL Building (207), Office 207\n18 Symonds Street\nAuckland, 1010, New Zealand"
+    "text": "Key Contacts\n\n\n\n\nTimothy Pistotti PhD Candidate tpis871@aucklanduni.ac.nz\n\n\n\nJason Brown Associate Professor View Profile\n\n\n\nMichael Witbrock Professor View Profile\n\n\n\n\n\n\nAffiliations\n\nNAO Institute\nSAIL (Strong AI Lab)\n\n\n\n\nOffice Address\nComputational Linguistics Lab CLL Building (207), Office 207\n18 Symonds Street\nAuckland, 1010, New Zealand"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Qiming Bao, Juho Leinonen, Alex Yuxuan Peng, Wanjun Zhong, Gaël Gendron, Timothy Pistotti, Alice Huang, Paul Denny, Michael Witbrock, and Jiamou Liu. 2025. Exploring iterative enhancement for improving learnersourced multiple-choice question explanations with large language models. In Proceedings of the AAAI conference on artificial intelligence, volume 39, pages 28955–28963.\n\n\nQiming Bao, Juho Leinonen, Alex Yuxuan Peng, Wanjun Zhong, Tim Pistotti, Alice Huang, Paul Denny, Michael Witbrock, and Jiamou Liu. 2023a. Exploring self-reinforcement for improving learnersourced multiple-choice question explanations with large language models. arXiv preprint arXiv:2309.10444.\n\n\nQiming Bao, Alex Yuxuan Peng, Zhenyun Deng, Wanjun Zhong, Gaël Gendron, Timothy Pistotti, Neset Tan, Nathan Young, Yang Chen, Yonghua Zhu, et al. 2023b. Abstract Meaning Representation-based logic-driven data augmentation for logical reasoning. arXiv preprint arXiv:2305.12599.\n\n\nTimothy Joseph Pistotti. 2022. Polar questions in Kham Mueang and Standard Thai.\n\n\nTimothy Pistotti, Jason Brown, and Michael Witbrock. 2025a. Evaluating the impact of stimulus quality in investigations of LLM language performance.\n\n\nTimothy Pistotti, Jason Brown, and Michael Witbrock. 2025b. Exploring gaps in the APS: Direct minimal pair analysis in LLM syntactic assessments.\n\n\nVithya Yogarajan, Gillian Dobbie, Timothy Pistotti, Joshua Bensemann, and Kobe Knowles. 2023. Challenges in annotating datasets to quantify bias in under-represented society. arXiv preprint arXiv:2309.08624."
+    "text": "List of Publications"
+  },
+  {
+    "objectID": "publications.html#posters",
+    "href": "publications.html#posters",
+    "title": "Publications",
+    "section": "Posters",
+    "text": "Posters\n\n\n\nMy 2025 Poster\n\n\nLinguistically-Informed Retrieval-Augmented Translation for Low-Resource Languages Presented at [Conference Name], [Year]"
   }
 ]
