@@ -16,7 +16,7 @@ List of Publications
 
 ## Posters
 
-[![My 2025 Poster](images/poster.jpg)](images/poster.jpg){.poster-thumbnail}
+[![My 2025 Poster](images/poster.pg)](images/poster.png){.poster-thumbnail}
 
 **Linguistically-Informed Retrieval-Augmented Translation for Low-Resource Languages**
 Presented at [Conference Name], [Year]
