@@ -6,7 +6,7 @@ nocite: |
   @*
 ---
 
-List of Publications
+## List of Publications
 <br>
 
 ::: {#refs .references .csl-bib-body .hanging-indent}
