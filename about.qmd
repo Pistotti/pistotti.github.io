@@ -17,3 +17,14 @@ My current research is focused on Natural Language Processing for low-resource l
 Driven to connect this practical experience with formal linguistic theory, I pursued an MA in Linguistics at the University of Auckland, graduating with First Class Honours. It was here that my focus shifted toward research, beginning with an analysis of the intonation systems of an under-documented language from Papua New Guinea as a research assistant. My MA thesis investigated neuances in Polar Questions in Kham Meuang and Standard Thai. My academic performance led to several honors, including a University of Auckland Doctoral Scholarship and a Research Project Scholarship for my work on low-resource languages.
 
 Today, my PhD work synthesizes these experiences. My deep-seated curiosity for language helps me explore novel computational approaches, always with an eye toward meaningful, real-world application.
+
+---
+
+## Media & Interviews
+<hr>
+
+**Interview with Pascal Esc (Sept 2023)**
+
+An interview discussing my PhD plan, the journey from linguistics to NLP, and my research on low-resource languages.
+
+{{< video "https://www.youtube.com/watch?v=Eart8mq6xqY" >}}
