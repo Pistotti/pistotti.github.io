@@ -16,7 +16,7 @@ title: "Contact"
 <div>
 <img src="images/jason-brown.png" alt="Jason Brown" style="width:100px; border-radius: 50%;">
 
-**Jason Brown** *Senior Lecturer*
+**Jason Brown** *Associate Professor*
 [View Profile](https://profiles.auckland.ac.nz/jason-brown)
 </div>
 
