@@ -4,7 +4,7 @@ title: "About Me"
 
 ::: {layout-ncol=2}
 <div>
-![My workspace at the Strong Artificial Intelligence Lab (SAIL).](images/about-me.png){.about-image}
+![A cartoon of me in the AI lab](images/about-me.png){.about-image fig-cap="My workspace at the [Strong Artificial Intelligence Lab (SAIL)](https://www.ai.ac.nz/)"}
 </div>
 
 <div>
