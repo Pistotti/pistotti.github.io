@@ -2,13 +2,11 @@
 title: "About Me"
 ---
 
-::: {layout-ncol=2}
-
-![A cartoon of me in the AI lab](images/about-me.png){border-radius="8px"}
+::: {.column-float-left style="width: 45%; margin-right: 20px; margin-bottom: 10px;"}
+![My workspace at the Strong Artificial Intelligence Lab (SAIL).](images/about-me.png){.about-image}
+:::
 
 My current research is focused on Natural Language Processing for low-resource languages, a field that perfectly merges my background in theoretical linguistics with a decade of hands-on experience in English language teaching. I am a PhD candidate at the University of Auckland, where my work is supervised by [Associate Professor Jason Brown](https://profiles.auckland.ac.nz/jason-brown) in the Faculty of Arts and [Professor Michael Witbrock](https://profiles.auckland.ac.nz/m-witbrock) in the Faculty of Computer Science. This interdisciplinary supervision supports my goal of developing ethical and accessible NLP solutions that can contribute to language preservation and revitalisation in under-served communities.
-
-:::
 
 After completing a BA in Literature and Film at the University of California, Santa Cruz, I spent nearly a decade as an ESL educator and curriculum designer across the globe, with roles in South Korea, Australia, Thailand, and Saudi Arabia. This period gave me a firsthand appreciation for the nuances of language acquisition and the diverse challenges faced by learners and speakers in different communities.
 
