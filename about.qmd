@@ -2,13 +2,17 @@
 title: "About Me"
 ---
 
-::: {.column-float-left style="width: 45%; margin-right: 20px; margin-bottom: 10px;"}
+::: {layout-ncol=2}
+<div>
 ![My workspace at the Strong Artificial Intelligence Lab (SAIL).](images/about-me.png){.about-image}
+</div>
+
+<div>
+My current research is focused on Natural Language Processing for low-resource languages, a field that perfectly merges my background in theoretical linguistics with a decade of hands-on experience in English language teaching. I am a PhD candidate at the University of Auckland, where my work is supervised by [Associate Professor Jason Brown](https://profiles.auckland.ac.nz/jason-brown) in the Faculty of Arts and [Professor Michael Witbrock](https://profiles.auckland.ac.nz/m-witbrock) in the Faculty of Computer Science. This interdisciplinary supervision supports my goal of developing ethical and accessible NLP solutions that can contribute to language preservation and revitalisation in under-served communities.
+</div>
 :::
 
-My current research is focused on Natural Language Processing for low-resource languages, a field that perfectly merges my background in theoretical linguistics with a decade of hands-on experience in English language teaching. I am a PhD candidate at the University of Auckland, where my work is supervised by [Associate Professor Jason Brown](https://profiles.auckland.ac.nz/jason-brown) in the Faculty of Arts and [Professor Michael Witbrock](https://profiles.auckland.ac.nz/m-witbrock) in the Faculty of Computer Science. This interdisciplinary supervision supports my goal of developing ethical and accessible NLP solutions that can contribute to language preservation and revitalisation in under-served communities.
-
-After completing a BA in Literature and Film at the University of California, Santa Cruz, I spent nearly a decade as an ESL educator and curriculum designer across the globe, with roles in South Korea, Australia, Thailand, and Saudi Arabia. This period gave me a firsthand appreciation for the nuances of language acquisition and the diverse challenges faced by learners and speakers in different communities.
+<br> After completing a BA in Literature and Film at the University of California, Santa Cruz, I spent nearly a decade as an ESL educator and curriculum designer across the globe, with roles in South Korea, Australia, Thailand, and Saudi Arabia. This period gave me a firsthand appreciation for the nuances of language acquisition and the diverse challenges faced by learners and speakers in different communities.
 
 Driven to connect this practical experience with formal linguistic theory, I pursued an MA in Linguistics at the University of Auckland, graduating with First Class Honours. It was here that my focus shifted toward research, beginning with an analysis of the intonation systems of an under-documented language from Papua New Guinea as a research assistant. My MA thesis investigated neuances in Polar Questions in Kham Meuang and Standard Thai. My academic performance led to several honors, including a University of Auckland Doctoral Scholarship and a Research Project Scholarship for my work on low-resource languages.
 
